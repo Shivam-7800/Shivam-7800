@@ -1,4 +1,4 @@
-![logo](https://github.com/Shivam-7800/Shivam-7800/blob/main/10-must-have-skills-for-data-engineering-jobs-banner.png)
+![logo]([https://github.com/Shivam-7800/Shivam-7800/blob/main/10-must-have-skills-for-data-engineering-jobs-banner.png](https://github.com/Shivam-7800/Shivam-7800/blob/main/machine-learning-consulting-company.png))
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Data Engineer Aspirants from India😊</h3>
 
