@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sk200381@gmail.com**
 
-- 📄 Know about my experiences(Resume) (https://rb.gy/2x2h1c)
+- 📄 Know about my experiences(Resume) (https://shorturl.at/CTNsO)
 
 - ⚡ Fun fact **I think ,I am Funny😅**
 
